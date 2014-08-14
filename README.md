@@ -1,3 +1,3 @@
-# igor
+# Igor
 
-a [Sails](http://sailsjs.org) application
+A node.js home automation system for Raspberry Pi
